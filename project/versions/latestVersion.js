@@ -1,0 +1,1 @@
+const LatestVersion = "1.2";
